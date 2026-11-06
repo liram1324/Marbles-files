@@ -1,30 +1,30 @@
 {
- "version": "1.0",
- "date": "2026-11-06T01:45:16.470Z",
+ "version": "1.1",
+ "date": "2026-11-06T01:55:42.279Z",
  "notes": "",
  "file": "Marbles.exe",
- "size": 170978472,
- "sha256": "eaa039b511b4d174e74473065002d39e326d480de3d79a6e9f7e445b8b66a4ca",
+ "size": 171626856,
+ "sha256": "a91e3c34bfb0deb9b7e8552aa1cd4c1126ad4accf48c20776021553433490db2",
  "parts": [
   {
-   "path": "game/1.0/Marbles.exe.001",
+   "path": "game/1.1/Marbles.exe.001",
    "size": 41943040
   },
   {
-   "path": "game/1.0/Marbles.exe.002",
+   "path": "game/1.1/Marbles.exe.002",
    "size": 41943040
   },
   {
-   "path": "game/1.0/Marbles.exe.003",
+   "path": "game/1.1/Marbles.exe.003",
    "size": 41943040
   },
   {
-   "path": "game/1.0/Marbles.exe.004",
+   "path": "game/1.1/Marbles.exe.004",
    "size": 41943040
   },
   {
-   "path": "game/1.0/Marbles.exe.005",
-   "size": 3206312
+   "path": "game/1.1/Marbles.exe.005",
+   "size": 3854696
   }
  ]
 }
